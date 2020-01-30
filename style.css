@@ -1,5 +1,7 @@
-html{
-    
+body{
+    margin: 0 auto;
+    text-transform: capitalize;
+    text-align: center;
 }
 
 
@@ -9,7 +11,7 @@ html{
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  height: 85vh;
+  height: 100vh;
   color: white;
   font-family: 'Libre Baskerville', serif;
 }
@@ -33,4 +35,25 @@ html{
 }
 .startnow{
     text-align: center;
+}
+.about-section{
+    margin-top: 2%;
+    text-align: center;
+    
+}
+.about-section p{
+ font-size: 1.2rem;
+    
+}
+
+.service-section{
+    margin-top: 5%;
+    text-align: center;
+    
+}h1{
+    text-align: center;
+}
+.icons{
+    font-size: 2rem;
+    
 }
