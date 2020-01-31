@@ -2,6 +2,7 @@ body{
     margin: 0 auto;
     text-transform: capitalize;
     text-align: center;
+    
 }
 
 
@@ -49,6 +50,7 @@ body{
 .service-section{
     margin-top: 5%;
     text-align: center;
+    font-family: 'Libre Baskerville', serif;
     
 }h1{
     text-align: center;
@@ -56,4 +58,23 @@ body{
 .icons{
     font-size: 2rem;
     
+}
+.service-row{
+    margin: 1rem;
+}
+.service-box{
+
+    text-align: center;
+    padding: .5rem;
+   border: 1px solid rgb(180, 181, 182);
+   font-family: 'Libre Baskerville', serif;
+}
+.service-box:hover{
+   
+     border: 1px solid rgb(57, 14, 173);
+  }
+.service-icons{
+    font-size: 40px;
+  color: skyblue;
+
 }
