@@ -66,15 +66,49 @@ body{
 
     text-align: center;
     padding: .5rem;
-   border: 1px solid rgb(180, 181, 182);
+   /* border: 1px solid rgb(180, 181, 182); */
    font-family: 'Libre Baskerville', serif;
 }
-.service-box:hover{
+.insider:hover{
    
-     border: 1px solid rgb(57, 14, 173);
+     border: 1px solid green;
   }
 .service-icons{
     font-size: 40px;
-  color: skyblue;
+  
 
 }
+.animated:hover{
+    animation-duration: 3s;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+  }
+  .insider{
+      border: 1px solid rgb(180, 181, 182);
+      margin: 2px;
+      padding:5px;
+  }
+  .img-rounded{
+      width: 700px;
+      height: 200px;
+  }
+  .img-hover{
+    transition: linear all 1s;
+  }
+  .img-hover:hover{
+    transform: scale(1.1);
+    
+    
+  }
+  .img-border:hover{
+    border: 1px solid green;
+    
+  }
+  .how-work{
+      margin-top: 100px;
+  }
+  .how-work-img{
+      
+      margin-top: 50px;
+  }
+  
