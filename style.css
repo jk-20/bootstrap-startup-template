@@ -71,7 +71,7 @@ body{
 }
 .insider:hover{
    
-     border: 1px solid green;
+     border: 1px solid #0275d8;
   }
 .service-icons{
     font-size: 40px;
@@ -101,7 +101,7 @@ body{
     
   }
   .img-border:hover{
-    border: 1px solid green;
+    border: 1px solid #0275d8;
     
   }
   .how-work{
@@ -111,4 +111,12 @@ body{
       
       margin-top: 50px;
   }
+  .social-media-icons{
+      margin-left: 10px;
+  }
+  .social-media-icons:hover{
+    color: #0275d8;
+    cursor: pointer;
+}
+
   
