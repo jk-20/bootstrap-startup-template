@@ -74,8 +74,8 @@ body{
     margin-top: 40px;
 }
 .insider:hover{
-   
-     border: 1px solid #0275d8;
+        cursor: pointer;
+        border: 1.5px solid #0275d8;
   }
 .service-icons{
     font-size: 40px;
@@ -96,7 +96,9 @@ body{
       width: 700px;
       height: 200px;
   }
+  
   .img-hover{
+      
     transition: linear all 1s;
   }
   .img-hover:hover{
@@ -112,8 +114,15 @@ body{
       margin-top: 100px;
   }
   .how-work-img{
-      
+      background-color: #0275d8;
+      border: 1px solid #0275d8 ;
       margin-top: 50px;
+      border-radius: 20px;
+  }
+  .how-work-img-inside{
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin: 40px;
   }
   .social-media-icons{
       margin-left: 10px;
