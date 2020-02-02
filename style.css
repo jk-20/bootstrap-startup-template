@@ -52,8 +52,6 @@ body{
     text-align: center;
     font-family: 'Libre Baskerville', serif;
     
-}h1{
-    text-align: center;
 }
 .icons{
     font-size: 2rem;
@@ -63,11 +61,17 @@ body{
     margin: 1rem;
 }
 .service-box{
-
+    margin-top: 30px;
     text-align: center;
     padding: .5rem;
    /* border: 1px solid rgb(180, 181, 182); */
    font-family: 'Libre Baskerville', serif;
+}
+.featured-work{
+    margin-top: 50px;
+}
+.featured-work-img{
+    margin-top: 40px;
 }
 .insider:hover{
    
@@ -117,6 +121,16 @@ body{
   .social-media-icons:hover{
     color: #0275d8;
     cursor: pointer;
+}
+.creative-team-header{
+    margin-top: 50px;
+}
+.creative-team{
+    margin-top: 50px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.service-shadow{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
   
