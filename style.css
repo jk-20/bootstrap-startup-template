@@ -88,9 +88,6 @@ body{
       padding:5px;
   }
  
-  .featured-work-box-1{
-   
-  }
   .featured-work-img-div{
     background-color: #f3f8fd;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -104,24 +101,16 @@ body{
       color: black;
     background-color: #c0defa;
   }
-  .featured-work-img{
-    border-radius: 20px;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    margin-top: 30px;
-    margin-left: -40px;
-    
-    
-  }
+    .featured-work-img{
+        border-radius: 20px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        margin-top: 30px;
+        margin-left: -40px;
+    }
 
-
-
-
-
-
-
-  .how-work{
-      margin-top: 100px;
-  }
+    .how-work{
+        margin-top: 100px;
+    }
   .how-work-img{
       background-color: #0275d8;
       
