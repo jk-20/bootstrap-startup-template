@@ -67,12 +67,7 @@ body{
     padding: .5rem;
  
 }
-.featured-work{
-    margin-top: 50px;
-}
-.featured-work-img{
-    margin-top: 40px;
-}
+
 .insider:hover{
         cursor: pointer;
         border: 1.5px solid #0275d8;
@@ -92,24 +87,38 @@ body{
       margin: 2px;
       padding:5px;
   }
-  .img-rounded{
-      width: 700px;
-      height: 200px;
+ 
+  .featured-work-box-1{
+   
   }
-  
-  .img-hover{
+  .featured-work-img-div{
+    background-color: #f3f8fd;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+      margin-top: 10px;
+      border-radius: 20px;
       
-    transition: linear all 1s;
+     
+      padding-bottom: 20px;
   }
-  .img-hover:hover{
-    transform: scale(1.1);
+  .featured-work-img-div:hover{
+      color: black;
+    background-color: #c0defa;
+  }
+  .featured-work-img{
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-top: 30px;
+    margin-left: -40px;
     
     
   }
-  .img-border:hover{
-    border: 1px solid #0275d8;
-    
-  }
+
+
+
+
+
+
+
   .how-work{
       margin-top: 100px;
   }
