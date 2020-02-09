@@ -5,7 +5,6 @@ body{
     
 }
 
-
 .background-image{
     background: url(https://cdn.pixabay.com/photo/2017/08/10/08/47/code-2620118_960_720.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
@@ -43,23 +42,19 @@ body{
 }
 .about-section{
     margin-top: 2%;
-    text-align: center;
-    
+    text-align: center; 
 }
 .about-section p{
- font-size: 1.2rem;
-    
+ font-size: 1.2rem;   
 }
 
 .service-section{
     margin-top: 5%;
-    text-align: center;
-  
-    
+    text-align: center;  
 }
+
 .icons{
-    font-size: 2rem;
-    
+    font-size: 2rem;  
 }
 .service-row{
     margin: 1rem;
@@ -81,9 +76,8 @@ body{
 }
 .service-icons{
     font-size: 40px;
-  
-
 }
+
 .animated:hover{
     animation-duration: 3s;
     animation-delay: 2s;
@@ -100,14 +94,11 @@ body{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
       margin-top: 10px;
       border-radius: 20px;
-      
-     
       padding-bottom: 20px;
   }
-  .featured-work-img-div:hover{
-      
+
+  .featured-work-img-div:hover{ 
     border: 0.5px solid #0275d8;
-    
   }
     .featured-work-img{
         border-radius: 20px;
@@ -140,6 +131,7 @@ body{
 .creative-team-header{
     margin-top: 50px;
 }
+
 .creative-team{
     margin-top: 50px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
